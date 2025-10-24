@@ -1,1 +1,1 @@
-# web-connections
+Fake ransomeware made with ChatGPT.(harmless)
